@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\pr4\z2\bin\Debug\z2.exe.config
+C:\Users\User\source\repos\pr4\z2\bin\Debug\z2.exe
+C:\Users\User\source\repos\pr4\z2\bin\Debug\z2.pdb
+C:\Users\User\source\repos\pr4\z2\obj\Debug\z2.csprojAssemblyReference.cache
+C:\Users\User\source\repos\pr4\z2\obj\Debug\z2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\pr4\z2\obj\Debug\z2.exe
+C:\Users\User\source\repos\pr4\z2\obj\Debug\z2.pdb
